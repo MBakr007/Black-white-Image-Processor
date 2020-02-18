@@ -1,6 +1,6 @@
 # Black-white-Image-Processor
 
-The goal of the project is to develop an image processing tool that can apply different filters (changes) to a given gray (and colored) bit map image of size 256 x 256.
+The goal of the repository is to develop an image processing tool that can apply different filters (changes) to a given gray (and colored) bit map image of size 256 x 256.
 
 the operations are : 
 
